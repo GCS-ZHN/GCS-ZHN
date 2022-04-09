@@ -1,16 +1,14 @@
-### Hi there 👋
+<div style="width:50%;float:right">
+<img src="https://github-readme-stats.vercel.app/api?username=GCS-ZHN&show_icons=true&theme=dracula&card_width=500" style="width:100%" />
 
-<!--
-**GCS-ZHN/GCS-ZHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCS-ZHN&layout=compact&theme=dracula&card_width=500" style="width:100%">
+</div>
 
-Here are some ideas to get you started:
+### Hello, my friends 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Focus on Java development
+- Focus on big data and AI
+- Current work is about the application of AI in medical
+- [Here](https://gcs-zhn.github.io/) is my github blog page
+- Interested in many magical tools
+
