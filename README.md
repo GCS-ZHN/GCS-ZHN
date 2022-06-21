@@ -4,7 +4,7 @@
   
 ### Hello, my friends 👋
 
-- Focus on Java development
+- Focus on Java and Python development
 - Focus on big data and AI
 - Current work is about the application of AI in medical
 - [Here](https://gcs-zhn.github.io/) is my github blog page
